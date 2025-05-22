@@ -43,4 +43,6 @@ The report is built with a focus on clarity, ease of navigation, and actionable 
 - Executive Dashboards
 - Departmental MIS Tracking
 
+The demo video is available on my [LinkedIn profile](https://www.linkedin.com/posts/divyanshi-doser_misreport-salesdashboard-dataanalytics-activity-7331336779821658113-SUZ_?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE).
+
  
